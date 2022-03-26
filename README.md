@@ -1,6 +1,6 @@
 #  👋 Hi, I’m Robert 
 
-## :chart_with_upwards_trend: Fronted Develompent (in learning), and future Full Stack Development :muscle:
+## :chart_with_upwards_trend: Fronted Develompent, and future Full Stack Development :muscle:
 
 - :mag_right: I’m looking for Fronted development opportunities.
 - 🌱 I’m currently learning app development using Reactjs and base data esentials whit MySQL.
