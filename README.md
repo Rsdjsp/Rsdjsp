@@ -1,17 +1,5 @@
-#  👋 Hi, I’m Robert 
-
-## :chart_with_upwards_trend: Fronted Develompent, and future Full Stack Development :muscle:
-
-- :mag_right: I’m looking for Fronted development opportunities.
-- 🌱 I’m currently learning app development using Reactjs and base data esentials whit MySQL.
-- 👐 I'm looking to collaborate in projects where I can learn and develop my  tecnic and soft skills.
-- 📫 You can send me a message on Twitter.  :sunglasses:
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsdjsp&theme=dark&show_icons=true)](https://github.com/Rsdjsp/github-readme-stats)
-
-### Mi nombre es Carlos Salvador 👋
-#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
+###  Hi, I’m Robert  👋
+#### Full-stack web developer in training 💻 currently in **active job search**♨️
 
 
 
@@ -19,13 +7,13 @@
 #### Actualmente me dedico a:
 
 
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
+- Improve my knowledge about the MERN technology stack, and new technologies
+- I'm interested to learn technologies like NextJS, PostgreSQL, Docker, and MySQL.
+- Practice principles, good practice skills, and development methodologies.
+- I'm looking to collaborate in projects where I can learn and develop my  tecnic and soft skills.
 ___
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsdjsp&theme=dark&show_icons=true)](https://github.com/Rsdjsp/github-readme-stats)
 
 #### Tengo conocimientos sobre:
 
