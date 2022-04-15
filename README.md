@@ -1,10 +1,10 @@
-###  Hi, I’m Robert  👋
-#### Full-stack web developer in training 💻 currently in **active job search**♨️
+##  Hi, I’m Robert  👋
+### Full-stack web developer in training, 💻 currently in **active job search**♨️
 
 
 
 
-#### Actualmente me dedico a:
+### Actualmente me dedico a:
 
 
 - Improve my knowledge about the MERN technology stack, and new technologies
@@ -15,31 +15,49 @@ ___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsdjsp&theme=dark&show_icons=true)](https://github.com/Rsdjsp/github-readme-stats)
 
-#### Tengo conocimientos sobre:
 
 
-##### Programming languages
+### Connect with me ☕️
 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+<p align="left">
+ 
+<a href="https://twitter.com/RobertS16872182" target="blank"><img align="center" src="https://o.remove.bg/downloads/a7583629-c5ae-44c8-8518-61b34b152e87/twitter-logo-vector-png-clipart-1-removebg-preview.png" alt="Robert Santos" height="30" width="30" /> Twitter</a>
+
+
+<a href="https://www.linkedin.com/in/rsantos96/?locale=en_US" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Robert Santos" height="30" width="30" /> Linkedin</a>
+
+
+<a href="mailto:rssp_96@hotmail.com" target="blank"><img align="center" src="https://o.remove.bg/downloads/0628e893-8626-4112-9172-97429653bb51/download-removebg-preview.png" alt="carlos salvador díaz" height="30" width="30" /> rssp_96@hotmail.com</a>
+</p>
+
+
+
+### Tech Stack
+
+
+#### Programing Languages
+
+
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="65" height="65"/></a>
 </p>
 
 
 ____
 
 
-##### FrontEnd Development
+#### FrontEnd Development
 
 
 <p align="left>
-<a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Reactjs" width="65" height="65"/> </a>      <a href="https://es.redux.js.org/ target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="65" height="65"/> </a> <a href="https://reactrouter.com/" target="_blank"> <img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" alt="React Router" width="75" height="65"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
 </p>
 
 
 ____
 
 
-##### Backend Development
+#### Backend Development
 <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 </p>
 
@@ -47,7 +65,7 @@ ____
 _____
 
 
-##### Database
+#### Database
 <p align="left"> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
@@ -58,7 +76,7 @@ _____
 _____
 
 
- ##### Others
+ #### Others
  <p align="left"> 
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
@@ -66,7 +84,7 @@ _____
   </p>
 
 
-#### Algunos de mis proyectos:
+### Algunos de mis proyectos:
 
 
 
@@ -80,18 +98,7 @@ _____
 
 
 
-#### ¿Hablamos?☕️
 
-
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/carlossalvadordiaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/carlossalvadordiaz" height="30" width="40" /></a>
-
-
-<a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
-
-
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
-</p>
 
 
 
