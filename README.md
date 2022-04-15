@@ -50,7 +50,7 @@ ____
 
 
 <p align="left>
-<a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Reactjs" width="65" height="65"/> </a>      <a href="https://es.redux.js.org/ target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="65" height="65"/> </a> <a href="https://reactrouter.com/" target="_blank"> <img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" alt="React Router" width="75" height="65"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="65" height="65"/> </a> <a href="https://styled-components.com/" target="_blank"> <img src="https://i.imgur.com/iNCkL1k.png" alt="Styled" width="65" height="65"/> </a>  <a href="https://postcss.org/" target="_blank"> <img src="https://i.imgur.com/EV64a36.png" alt="Postcss" width="65" height="65"/> </a><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://i.imgur.com/aElTUyo.png" alt="Html5" width="65" height="65"/> </a><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="65" height="65"/> </a>
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Reactjs" width="65" height="65"/> </a>      <a href="https://es.redux.js.org/ target="_blank" > <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="65" height="65"/> </a> <a href="https://reactrouter.com/" target="_blank"> <img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" alt="React Router" width="75" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="65" height="65"/> </a> <a href="https://styled-components.com/" target="_blank"> <img src="https://i.imgur.com/iNCkL1k.png" alt="Styled" width="65" height="65"/> </a>  <a href="https://postcss.org/" target="_blank"> <img src="https://i.imgur.com/EV64a36.png" alt="Postcss" width="65" height="65"/> </a><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://i.imgur.com/aElTUyo.png" alt="Html5" width="65" height="65"/> </a><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="55" height="65"/> </a>
 </p>
 
 
@@ -67,21 +67,46 @@ _____
 
 #### Database
 <p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
- </p>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://i.imgur.com/tcmhW0P.png" alt="mongodb" width="65" height="65"/> </a></p>
+
+
+
+_____
+ 
+ 
+ #### Cloud
+<p align="left"> 
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>  <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width="65" height="65"/> </a> <a href="https://cloud.google.com/" target="_blank"> <img src="https://i.imgur.com/XQfu5tt.png" alt="Gcloud" width="75" height="65"/> </a></p>
+
 
 
 _____
 
 
+ #### Testing
+<p align="left"> 
+ <a href="https://jestjs.io/" target="_blank"> <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest" width="65" height="65"/> </a>  <a href="https://www.cypress.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress" width="65" height="65"/> </a> </p>
+
+
+
+_____
+ 
+
  #### Others
  <p align="left"> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   </p>
+  
+  
+  
+  
+  
 
 
 ### Algunos de mis proyectos:
