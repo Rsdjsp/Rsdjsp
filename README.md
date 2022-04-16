@@ -4,7 +4,7 @@
 
 
 
-### Actualmente me dedico a:
+### I'm currently dedicated to:
 
 
 - Improve my knowledge about the MERN technology stack, and new technologies
