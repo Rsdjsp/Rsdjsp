@@ -103,6 +103,20 @@ _____
  <a href="https://axios-http.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="85" height="65"/>  </a>
   </p>
   
+ #### Some of my projects:
+
+
+
+| Movies Reviews  | WorkflowAPP  | Ecommerce  |
+|---|---|---|
+| <a href="https://react-moviesreview.web.app" target="_blank"> <img src="https://i.imgur.com/NvnWxUw.png" width="300" height="250"/></a> |  <a href="https://react-workflowapp.web.app" target="_blank"> <img src="https://i.imgur.com/4GiSrLn.png" width="300" height="250"/></a> | <a href="https://react-ecommerce-93fdd.web.app" target="_blank"> <img src="https://i.imgur.com/PqLAF4D.png" width="300" height="250"/></a>  |
+
+
+
+
+
+
+  
    
   
   
