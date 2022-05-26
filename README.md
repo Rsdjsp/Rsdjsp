@@ -1,5 +1,5 @@
 ##  Hi, I’m Robert  👋
-### Full-stack web developer in training, 💻 currently in **active job search**♨️
+### Web developer, 💻 currently in **active job search**♨️
 
 
 
