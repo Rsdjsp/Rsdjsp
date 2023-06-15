@@ -1,19 +1,24 @@
-##  Hi, I’m Robert  👋
-### Web developer, 💻 currently in **active job search**♨️
+<h1 align="center">Hi 👋, I'm Robert</h1>
+<h3 align="center">A passionate javascript developer from Colombia</h3>
 
 
 
+- 🔭 I’m currently working on:  **Improve my knowledge about the MERN technology stack and new technologies**
 
-### I'm currently dedicated to:
+- 🌱 I’m currently learning: **Python, Cloud, DevOps**
 
+- 👯 I’m looking to collaborate on:  **Projects where I can learn and develop my technical and soft skills.**
 
-- Improve my knowledge about the MERN technology stack and new technologies
-- I'm interested to learn technologies like NextJS, PostgreSQL, Docker, and MySQL.
-- Practice principles, good practice skills, and development methodologies.
-- I'm looking to collaborate on projects where I can learn and develop my  technical and soft skills.
+- 🤝 I’m looking for help with:  **AWS environments**
+
+- 💬 Ask me about:  **React,Node and JavaScript**
+
+- 📫 How to reach me:  **rssp_96@hotmail.com**
 ___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsdjsp&theme=dark&show_icons=true)](https://github.com/Rsdjsp/github-readme-stats)
+
+
 
 
 
@@ -40,6 +45,7 @@ ___
 
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="65" height="65"/></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
 </p>
 
 
