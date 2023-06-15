@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 
-<h3 align="center">A passionate javascript developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 
 
 
@@ -58,26 +58,21 @@ ____
 #### FrontEnd Development
 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 
 ____
 
 
 #### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://i.imgur.com/C8dcCqt.png" alt="express" width="65" height="65"/> </a><a href="https://mongoosejs.com/" target="_blank"> <img src="https://i.imgur.com/uB7Yg2U.png" alt="Mongoose" width="65" height="65"/> </a><a href="https://www.npmjs.com/package/nodemon" target="_blank"> <img src="http://nodemon.io/nodemon.svg" alt="nodemoon" width="65" height="65"/> </a><a href="https://jwt.io/" target="_blank"> <img src="https://i.imgur.com/ew4mSGn.png" alt="JWT" width="65" height="65"/> </a><a href="https://www.passportjs.org/" target="_blank"> <img src="https://i.imgur.com/4CGVHkS.png" alt="Passport" width="65" height="65"/> </a>
-</p>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 _____
 
 
 #### Database
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://i.imgur.com/tcmhW0P.png" alt="MongoDB" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://i.imgur.com/ry7BQZy.png" alt="MySQL" width="65" height="65"/> </a>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 
@@ -85,8 +80,7 @@ _____
  
  
  #### Cloud
-<p align="left"> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>  <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku" width="65" height="65"/> </a> <a href="https://cloud.google.com/" target="_blank"> <img src="https://i.imgur.com/XQfu5tt.png" alt="Gcloud" width="75" height="65"/> </a></p>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
@@ -94,8 +88,8 @@ _____
 
 
  #### Testing
-<p align="left"> 
- <a href="https://jestjs.io/" target="_blank"> <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest" width="65" height="65"/> </a>  <a href="https://www.cypress.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress" width="65" height="65"/> </a> </p>
+ ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![Testing](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) 
+
 
 
 
@@ -103,17 +97,10 @@ _____
  
 
  #### Others
- <p align="left"> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
- <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331509/npm.svg" alt="npm" width="65" height="65"/>  </a>
- <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="65" height="65"/>  </a>
- <a href="https://es.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="shell" width="65" height="65"/>  </a>
- <a href="https://nodemailer.com/about/" target="_blank"> <img src="https://repository-images.githubusercontent.com/1272424/d1995000-0ab7-11ea-8ed3-04a082c36b0d" alt="nodemailer" width="85" height="65"/>  </a>
- <a href="https://axios-http.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" alt="axios" width="85" height="65"/>  </a>
-  </p>
-  
-  
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+
+ 
+ 
 _________
 
 
