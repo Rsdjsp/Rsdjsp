@@ -7,10 +7,10 @@
 ### I'm currently dedicated to:
 
 
-- Improve my knowledge about the MERN technology stack, and new technologies
+- Improve my knowledge about the MERN technology stack and new technologies
 - I'm interested to learn technologies like NextJS, PostgreSQL, Docker, and MySQL.
 - Practice principles, good practice skills, and development methodologies.
-- I'm looking to collaborate in projects where I can learn and develop my  tecnic and soft skills.
+- I'm looking to collaborate on projects where I can learn and develop my  technical and soft skills.
 ___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsdjsp&theme=dark&show_icons=true)](https://github.com/Rsdjsp/github-readme-stats)
@@ -36,7 +36,7 @@ ___
 ### Tech Stack
 
 
-#### Programing Languages
+#### Programming Languages
 
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="65" height="65"/></a>
@@ -67,7 +67,9 @@ _____
 
 #### Database
 <p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://i.imgur.com/tcmhW0P.png" alt="mongodb" width="65" height="65"/> </a></p>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://i.imgur.com/tcmhW0P.png" alt="MongoDB" width="65" height="65"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://i.imgur.com/ry7BQZy.png" alt="MySQL" width="65" height="65"/> </a>
+</p>
 
 
 
@@ -111,7 +113,7 @@ _________
 
 
 
-| Movies Reviews  | WorkflowAPP  | Ecommerce  |
+| Movies Reviews  | WorkflowAPP  | E-commerce  |
 |---|---|---|
 | <a href="https://react-moviesreview.web.app" target="_blank"> <img src="https://i.imgur.com/NvnWxUw.png" width="300" height="250"/></a> |  <a href="https://react-workflowapp.web.app" target="_blank"> <img src="https://i.imgur.com/4GiSrLn.png" width="300" height="250"/></a> | <a href="https://react-ecommerce-93fdd.web.app" target="_blank"> <img src="https://i.imgur.com/PqLAF4D.png" width="300" height="250"/></a>  |
 
